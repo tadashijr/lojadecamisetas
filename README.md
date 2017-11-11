@@ -1,24 +1,11 @@
-# README
+# Loja de Camisetas
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+
+Ruby on Rails 4 course: from scratch to the web
+* Curso Ruby on Rails 4: do zero à web
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.2.6
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
